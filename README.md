@@ -1,8 +1,8 @@
 #### 최초 작성일 : 2021.07.12(월)
 
-# 타임리프(Thymeleaf) 기본 기능
+# 타임리프(Thymeleaf) 스프링 통합 및 Form 기능
 
-Spring Boot를 이용한 타임리프 기본 기능 학습
+Spring Boot를 이용한 타임리프 Form 학습
 
 ## 학습 환경
 
